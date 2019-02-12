@@ -1,6 +1,9 @@
 # react-native-google-places-autocomplete
 Customizable Google Places autocomplete component for iOS and Android React-Native apps
 
+## Customizations
+This PR (FaridSafi#191) added a loading indicator on search and removed in a code refactor and cleanup seen here (FaridSafi@14c4613#diff-e574d057fb2c5e71b74e6125228256e3). I still need this as the default was not working. This is just adding that code back in.
+
 ### Preview
 
 ![](https://raw.githubusercontent.com/FaridSafi/react-native-google-places-autocomplete/master/Assets/screenshot.png)
